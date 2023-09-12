@@ -12,4 +12,4 @@ type in: require('crypto').randomBytes(64).toString('hex')
 This will give you a random string of characters which you can use to fill in either of the two secrets. Repeat the process again to
 fill in the remaining one.
 
-The solution was tested using ThunderClient ( using npm run 'dev' [for nodemon] )
+The solution was tested using ThunderClient ( using npm run dev [for nodemon] )
